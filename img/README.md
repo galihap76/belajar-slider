@@ -1,1 +1,1 @@
-Ini adalah beberapa gambar owl carousel. Kamu bisa gunakan gambar tersebut untuk contoh saja.
+Ini adalah beberapa gambar burung hantu untuk owl carousel. Kamu bisa gunakan gambar tersebut untuk contoh saja.
